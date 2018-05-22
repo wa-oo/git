@@ -1,5 +1,5 @@
 public static void main(String[] args) {
-	while () {
+	while (ture) {
 		
 	}
 }
